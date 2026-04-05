@@ -1,0 +1,21 @@
+{
+  "check_interval_minutes": 5,
+  "sites": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://telegram.org"
+    },
+    {
+      "name": "Ваш сайт",
+      "url": "https://yoursite.com"
+    }
+  ]
+}
